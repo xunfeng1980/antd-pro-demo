@@ -312,6 +312,18 @@ export default defineConfig({
           path: '/editor/dag',
           component: './editor/dag',
         },
+        {
+          name: 'er',
+          icon: 'smile',
+          path: '/editor/er',
+          component: './editor/er',
+        },
+        {
+          name: 'flow_new',
+          icon: 'smile',
+          path: '/editor/flow_new',
+          component: './editor/flow_new',
+        },
       ],
     },
     {
